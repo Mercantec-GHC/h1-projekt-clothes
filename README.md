@@ -1,5 +1,10 @@
 # Markedsplads C2C Projekt
 
+
+
+DER BLIVER ARBEJDET I DETTE REPO!
+https://github.com/mikk922r/H1-Projekt
+
 ## Overblik
 Dette projekt er en C2C (Consumer-to-Consumer) markedsplads bygget med Blazor, hvor brugere kan købe og sælge produkter direkte til hinanden.
 
